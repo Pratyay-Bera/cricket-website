@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/cricket-website/sitemap.xml
+Sitemap: https://pratyay-bera.github.io/cricket-website/sitemap.xml
